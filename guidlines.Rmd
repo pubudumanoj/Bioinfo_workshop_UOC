@@ -1,0 +1,12 @@
+---
+title: "workshop_guidlines"
+author: "Pubudu Nawarathna"
+date: "2018 සැප්තැම්බර් 7"
+output: html_document
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
