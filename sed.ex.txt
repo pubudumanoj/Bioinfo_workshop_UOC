@@ -1,0 +1,32 @@
+Histone modifications
+are implicated in influencing gene expression.
+We have generated high-resolution maps for
+the genome-wide distribution of
+20 histone lysine and arginine
+methylations as well as
+histone variant H2A.Z,
+RNA polymerase II,
+and the insulator binding protein
+CTCF across the human genome
+using the Solexa 1G sequencing
+technology. Typical patterns of
+histone methylations exhibited at
+promoters, "insulators", enhancers,
+and transcribed regions are identified.
+The monomethylations of H3K27, H3K9,
+H4K20, H3K79, and H2BK5 are all
+linked to gene activation,
+whereas trimethylations of
+H3K27, H3K9, and H3K79 are
+linked to repression. H2A.Z
+associates with functional
+regulatory "elements", and
+CTCF marks boundaries of histone
+methylation domains. Chromosome
+banding patterns are correlated
+with unique patterns of histone
+modifications. Chromosome breakpoints
+detected in T cell cancers frequently
+reside in chromatin regions associated with H3K4 methylations.
+Our data provide new insights into the function
+of histone methylation and chromatin organization in genome function.
